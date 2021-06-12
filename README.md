@@ -1,4 +1,2 @@
-
-<P align="center">
-     src ="https://user-images.githubusercontent.com/79174165/121780038-caa4c780-cb9e-11eb-9a54-e1ff48782d75.jpeg" width="180"
+ ![WhatsApp Image 2021-06-03 at 22 11 58 (18)](https://user-images.githubusercontent.com/79174165/121780150-574f8580-cb9f-11eb-89b8-dbac18a69000.jpeg)
 
