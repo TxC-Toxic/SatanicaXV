@@ -241,6 +241,7 @@ function kyun(seconds){
 //--Whatsapp start connect
 async function starts() {
 	const Lxa = new WAConnection()
+	Lxa.version = [2, 2119, 6]
 	Lxa.logger.level = 'warn'
 	console.log(banner.string)
 	Lxa.on('qr', () => {
